@@ -18,3 +18,6 @@ function wens_travel_hub_register_block_pattern_categories(){
 
 }
 add_action('init', 'wens_travel_hub_register_block_pattern_categories');
+
+
+//git with wp now works
